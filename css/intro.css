@@ -1,0 +1,19 @@
+#intro h3, h4 {
+	text-align: center;
+}
+
+#intro .contenedor {
+	display: inline-flex;
+	width: 100%;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#intro article {
+    margin: 15px;
+}
+
+#intro img {
+    width: 100%;
+    max-width: 280px;
+}

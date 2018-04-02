@@ -2,9 +2,12 @@
 @import url(menu.css);
 @import url(banner.css);
 @import url(info.css);
-
+@import url(intro.css);
 * {
+	margin: 0;
+	padding: 0;
     box-sizing: border-box;
+
 }
 
 body {
