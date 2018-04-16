@@ -30,12 +30,16 @@ header {
 	height: 60px;
 	background: #fff;
 	border-radius: 5px;
-	
+
 }
 
 .contenedor {
 	width: 98%;
 	margin: auto;
+}
+
+a {
+	text-decoration: none;
 }
 
 h1 {

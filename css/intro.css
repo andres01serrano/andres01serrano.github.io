@@ -3,8 +3,7 @@
 }
 
 #intro .contenedor {
-	display: inline-flex;
-	width: 100%;
+	width: 85%;
 	justify-content: center;
 	flex-wrap: wrap;
 }
@@ -16,4 +15,5 @@
 #intro img {
     width: 100%;
     max-width: 280px;
+	float: left;
 }
